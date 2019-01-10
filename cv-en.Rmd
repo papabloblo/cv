@@ -1,0 +1,202 @@
+---
+title: "Someone's resume"
+author: Pablo Hidalgo García
+output: pagedown::html_resume
+---
+
+
+Aside
+====================================
+
+
+
+CONTACT INFO
+------------------------------------
+
+<i class="fa fa-envelope"></i> pablohigar@gmail.com
+
+<i class="fa fa-github"></i> github.com/papabloblo
+
+For more information, please contact me via email.
+
+Statistical modelling skills
+------------------------------------
+
+Experienced in multivariate statistics, linear and nonlinear statistical modelling, time series analysis, machine learning techniques and optimization methods. 
+
+High technical skills in R (e.g, tidyverse, s
+parklyr, MASS, ts, rmarkdown,...), git and SAS.
+
+
+
+
+
+
+Main
+====================================
+
+Pablo Hidalgo García {#title}
+------------------------------------
+
+
+
+
+PROFESSIONAL EXPERIENCE 
+------------------------------------
+
+### Senior data scientist
+
+Innova-tsn
+
+Madrid
+
+2016-2018
+
+Responsible of analytics lab in Innova-tsn.
+
+Supervised development of a project of churn prediction in press.
+
+Technical leader in price optimization project.
+
+Audience forecasting of a generalist channel.
+
+
+
+### Junior data scientist
+
+Innova-tsn
+
+Madrid
+
+2014-2016
+
+Implement an optimization algorithm (Hill Climbing) in SAS to solve scheduling problems in retail.
+
+
+
+
+
+Teaching experience {data-icon=chalkboard-teacher}
+------------------------------------
+
+### An introduction to NoSQL databases (6 hours)
+
+Master in Business Analytics and Data Science, Madrid School of Marketing (MSMK)
+
+Madrid
+
+12/2018
+
+### Business intelligence (30 hours)
+
+Master in Advance Analytics and Cognitive Inteligence, MSMK
+
+Madrid
+
+12/2018
+
+### An introduction to relational databases (6 hours)
+
+Master in Business Analytics and Data Science, MSMK
+
+Madrid
+
+10/2018
+
+### Introduction to R programming (15 hours)
+
+Madrid School of Marketing (MSMK)
+
+Madrid
+
+10/2018
+
+
+### Data visualization with R using ggplot2 (3 hours)
+
+Master in Business Analytics and Data Science, MSMK
+
+Madrid
+
+6/2018
+
+### An introduction to SQL and NoSQL databases (6 horas)
+
+Master in Business Analytics and Data Science, MSMK
+
+Madrid
+
+6/2018
+
+### Introduction to R programming (15 hours)
+
+Madrid School of Marketing (MSMK)
+
+Madrid
+
+06/2018
+
+
+### Introduction to R programming  (20 hours)
+
+Mediaset
+
+Madrid
+
+01/2018
+
+
+Talks 
+------------------------------------
+
+### Inteligencia artificial y visualización de datos
+
+Artificial Intelligence and data visualization, MSMK.
+
+Madrid
+
+11/2018
+
+
+
+
+### Semiboost: un paquete para aprendizaje semisupervisado
+
+Semiboost: a package for semi-supervised learning. IX Jornadas de Usuarios de R
+
+Granada
+
+11/2017
+
+
+
+
+
+
+
+### Teoría de cópulas aplicada a la optimización de precios
+
+Copula theory applied to price optimization. IX Jornadas de Usuarios de R
+
+Albacete
+
+11/2016
+
+
+
+
+
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### Complutense University of Madrid (UCM)
+
+Undergraduate programme in Math and statistic.
+
+Madrid
+
+2009-2014
+
+
+
