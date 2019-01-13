@@ -1,5 +1,5 @@
 ---
-title: "Someone's resume"
+title: "Pablo Hidalgo CV"
 author: Pablo Hidalgo García
 output: pagedown::html_resume
 ---
@@ -8,7 +8,6 @@ output: pagedown::html_resume
 Aside
 ====================================
 
-Picture, etc.
 
 Información de contacto
 ------------------------------------
@@ -23,13 +22,13 @@ Skills
 ------------------------------------
 
 - R
-- Data Science
-- Three
+- Machine Learning (regresión lineal, árboles de decisión, boosting, random forest, ...)
+- SAS
+- git
+- Linux
 
-Disclaimer
-------------------------------------
 
-A footer in the sidebar.
+
 
 
 Main
@@ -38,26 +37,49 @@ Main
 Pablo Hidalgo García {#title}
 ------------------------------------
 
-Apasionado del *data science*, de la visualización de datos y de la docencia. Enamorado de R. Convencido de que los algoritmos no sirven para nada si no somos capaces de comunicarlos hacia aquellos que van a utilizarlos o, al menos, ayudar a entender los resultados.
+Apasionado del **data science**, de la **visualización de datos**, de **R** y de la **docencia**. Convencido de que los algoritmos no sirven para nada si no somos capaces de comunicarlos hacia aquellos que van a utilizarlos o, al menos, ayudar a entender sus resultados.
 
-Comencé trabajando con tecnología SAS implementando un algoritmo de optimización (*Hill Climbing*) para encontrar la mejor planificación horaria de los empleados de una gran empresa de retail. Poco a poco, conseguí abrirme camino en el mundo R en diversos proyectos llegando a liderar un proyecto de optimización de precios. Fui el responsable del laboratorio analítico de innovación dentro de Innova-tsn cuyo objetivo era el de servir de referencia 
+Comencé trabajando con tecnología **SAS** implementando un algoritmo de optimización (*Hill Climbing*) para encontrar la mejor planificación horaria de los empleados de una gran empresa de retail. Poco a poco, conseguí orientar mi carrera hacia el uso de tecnología **R** participando en proyectos como la estimación de la demanda para el sector energético, predicción de baja de clientes, agrupación de comportamientos de consumo eléctrico hasta llegar a liderar la parte técnica de un proyecto de optimización de precios.
 
+Durante el 2017, Innova-tsn decidió crear un laboratorio de innovación analítica que perseguía ser la referencia técnica dentro de la compañía y desarrollar soluciones mediante software *open source* en el que trabajé como responsable.
+
+He impartido cursos de formación tanto en **Innova-tsn** como a través de la escuela **MSMK**. Estos cursos han sido, principalmente, de modelización estadística, software R, bases de datos (SQL y NoSQL) y visualización siendo tanto cursos aislados como contenidos dentro de diversos másteres.
+
+Actualmente, compatibilizo mi carrera profesional con el estudio de algoritmos de la **Inteligencia Artificial**.
 
 
 Experiencia profesional {data-icon=chalkboard-teacher}
 ------------------------------------
 
-### Senior data scientist
+### Senior Data Scientist
 
 Innova-tsn
 
-Location
+Madrid
 
-2016-2018
+2016
 
-Responsable del laboratorio analítico de innovación. Desarrollo de soluciones con tecnología Open Source.
+Responsable del laboratorio de innovación analítica. Desarrollo de soluciones con tecnología Open Source.
 
-Responsable analítico de la implementación de una solución para 
+Responsable analítico de la implementación de una solución para la optimización de precios.
+
+Asesoramiento de soluciones técnicas en proyectos de predicción de la demanda, predicción de audiencias y fuga de clientes
+
+Impartición de cursos de modelización estadística y programación en R.
+
+### Data scientist
+
+Innova-tsn
+
+Madrid
+
+2014
+
+Optimización del horario de los empleados de una gran compañía retail.
+
+Agrupación de curvas de consumo para el sector energético.
+
+Cursos de formación de SAS.
 
 
 
@@ -66,7 +88,7 @@ Formaciones impartidas {data-icon=chalkboard-teacher}
 
 ### Taller de bases de datos NoSQL (6 horas)
 
-Máster en Business Analytics y Data Science
+Máster en Business Analytics y Data Strategy
 
 MSMK
 
@@ -96,7 +118,6 @@ Madrid
 
 10/2018
 
-
 ### Taller de visualización de datos (3 horas)
 
 Máster en Business Analytics y Data Science
@@ -121,8 +142,6 @@ Madrid
 
 06/2018
 
-Arbitrary content
-
 ### Introducción a la programación en R (20 horas)
 
 Mediaset
@@ -131,7 +150,6 @@ Madrid
 
 01/2018
 
-Arbitrary content
 
 
 Ponencias {data-icon=chalkboard-teacher}
@@ -147,7 +165,7 @@ Madrid
 
 La importancia de la visualización de datos para **entender** los resultados de los algoritmos de Inteligencia Artificial.
 
-### Semiboost: un paquete
+### Semiboost: un paquete para el aprendizaje semisupervisado.
 
 IX Jornadas de Usuarios de R
 
@@ -155,7 +173,6 @@ Granada
 
 11/2017
 
-Arbitrary content
 
 ### Teoría de cópulas aplicada a la optimización de precios
 
@@ -165,7 +182,7 @@ Granada
 
 11/2017
 
-Arbitrary content
+
 
 
 Educación {data-icon=graduation-cap}
@@ -178,7 +195,5 @@ Universidad Complutense de Madrid (UCM)
 Madrid
 
 2009-2014
-
-Arbitrary content
 
 
