@@ -22,11 +22,12 @@ Skills
 ------------------------------------
 
 - R
+- Shiny
 - Machine Learning (regresión lineal, árboles de decisión, boosting, random forest, ...)
 - SAS
 - git
 - Linux
-
+- D3
 
 
 
@@ -39,17 +40,25 @@ Pablo Hidalgo García {#title}
 
 Apasionado del **data science**, de la **visualización de datos**, de **R** y de la **docencia**. Convencido de que los algoritmos no sirven para nada si no somos capaces de comunicarlos hacia aquellos que van a utilizarlos o, al menos, ayudar a entender sus resultados.
 
-Comencé trabajando con tecnología **SAS** implementando un algoritmo de optimización (*Hill Climbing*) para encontrar la mejor planificación horaria de los empleados de una gran empresa de retail. Poco a poco, conseguí orientar mi carrera hacia el uso de tecnología **R** participando en proyectos como la estimación de la demanda para el sector energético, predicción de baja de clientes, agrupación de comportamientos de consumo eléctrico hasta llegar a liderar la parte técnica de un proyecto de optimización de precios.
+Comencé trabajando con tecnología **SAS** implementando un algoritmo de optimización (*Hill Climbing*) para encontrar la mejor planificación horaria de los empleados de una gran empresa de retail. Poco a poco, conseguí orientar mi carrera hacia el uso de tecnología **R** participando en proyectos como la **estimación de la demanda** para el sector energético, **predicción de baja de clientes**, **agrupación de comportamientos de consumo** eléctrico hasta llegar a liderar la parte técnica de un proyecto de **optimización de precios** para empresa de retail.
 
 Durante el 2017, Innova-tsn decidió crear un laboratorio de innovación analítica que perseguía ser la referencia técnica dentro de la compañía y desarrollar soluciones mediante software *open source* en el que trabajé como responsable.
 
 He impartido cursos de formación tanto en **Innova-tsn** como a través de la escuela **MSMK**. Estos cursos han sido, principalmente, de modelización estadística, software R, bases de datos (SQL y NoSQL) y visualización siendo tanto cursos aislados como contenidos dentro de diversos másteres.
 
-Actualmente, compatibilizo mi carrera profesional con el estudio de algoritmos de la **Inteligencia Artificial**.
 
 
 Experiencia profesional {data-icon=chalkboard-teacher}
 ------------------------------------
+### CEO y cofundador 
+
+Treligen
+
+Madrid
+
+2019
+
+Startup especializada en machine learning, inteligencia artificial y visualización de datos.
 
 ### Senior Data Scientist
 
@@ -57,7 +66,7 @@ Innova-tsn
 
 Madrid
 
-2016
+2016-2019
 
 Responsable del laboratorio de innovación analítica. Desarrollo de soluciones con tecnología Open Source.
 
@@ -73,7 +82,7 @@ Innova-tsn
 
 Madrid
 
-2014
+2014-2016
 
 Optimización del horario de los empleados de una gran compañía retail.
 
@@ -85,28 +94,37 @@ Cursos de formación de SAS.
 
 Formaciones impartidas {data-icon=chalkboard-teacher}
 ------------------------------------
+### Asignatura de Data Analytics (52 horas)
+
+Grado en Business (MSMK)
+
+Madrid
+
+03/2019
+
+
 
 ### Taller de bases de datos NoSQL (6 horas)
 
-Máster en Business Analytics y Data Strategy
+Máster en Business Analytics y Data Strategy (MSMK)
 
-MSMK
+Madrid
 
 12/2018
 
 ### Módulo 1: el origen del Big Data (30 horas)
 
-Máster en Advance Analytics y Cognitive Inteligence
+Máster en Advance Analytics y Cognitive Inteligence (MSMK)
 
-MSMK
+Madrid
 
 12/2018
 
 ### Taller de bases de datos relacionales (6 horas)
 
-Máster en Business Analytics y Data Science
+Máster en Business Analytics y Data Strategy (MSMK)
 
-MSMK
+Madrid
 
 10/2018
 
@@ -120,17 +138,17 @@ Madrid
 
 ### Taller de visualización de datos (3 horas)
 
-Máster en Business Analytics y Data Science
+Máster en Business Analytics y Data Strategy (MSMK)
 
-MSMK
+Madrid
 
 6/2018
 
 ### Taller de bases de datos SQL y NoSQL (6 horas)
 
-Máster en Business Analytics y Data Science
+Máster en Business Analytics y Data Science (MSMK)
 
-MSMK
+Madrid
 
 6/2018
 
@@ -176,7 +194,7 @@ Granada
 
 ### Teoría de cópulas aplicada a la optimización de precios
 
-IX Jornadas de Usuarios de R
+VIII Jornadas de Usuarios de R
 
 Granada
 
